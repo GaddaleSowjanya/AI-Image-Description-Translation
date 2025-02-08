@@ -1,0 +1,7 @@
+#!sudo apt install espeak  # voice error
+#pip install googletrans==4.0.0-rc1
+#pip install pyttsx3
+#pip install streamlit
+#npm install localtunel   # look likes error but not error
+#pip install google-generativeai  # Not required in google colab
+#pip -q install pyngrok
